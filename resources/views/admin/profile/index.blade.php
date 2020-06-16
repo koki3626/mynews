@@ -15,7 +15,8 @@
                                 <th width="20%">氏名</th>
                                 <th width="10%">性別</th>
                                 <th width="20%">趣味</th>
-                                <th width="50%">自己紹介欄</th>
+                                <th width="20%">メッセージ</th>
+                                <th width="30%">自己紹介欄</th>
                             </tr>
                         </thead>
                         <tbody>
